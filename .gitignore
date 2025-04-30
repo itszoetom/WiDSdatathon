@@ -2,3 +2,4 @@ data/
 *.csv
 *.xlsx
 .DS_Store
+model/submissionXGB.csv
