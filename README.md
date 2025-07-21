@@ -1,14 +1,12 @@
-# 🧠 WiDS 2024: ADHD Prediction in Women
+# WiDS 2024: ADHD Prediction in Women
 
 This repository contains our submission for the **WiDS 2024 Datathon**, focused on using biomedical, cognitive, and demographic data to improve **diagnosis of ADHD in women** — a population that is historically underdiagnosed. Our goal was to develop interpretable and performant models while surfacing gender- and age-related disparities in mental health diagnostics.
 
-## 💡 Motivation
+## Motivation
 
 ADHD is significantly underdiagnosed in adult women due to non-traditional symptom presentations, social masking, and systemic bias. This project explores whether machine learning models trained on behavioral and biomedical features can help reduce diagnostic gaps, and which features are most informative for identifying ADHD in women.
 
----
-
-## 📁 Folder Structure
+## Folder Structure
 
 ```bash
 model/
