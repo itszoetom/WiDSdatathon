@@ -1,6 +1,6 @@
-# WiDS 2024: ADHD Prediction in Women
+# WiDS 2025: ADHD Prediction in Women
 
-This repository contains our submission for the **WiDS 2024 Datathon**, focused on using biomedical, cognitive, and demographic data to improve **diagnosis of ADHD in women** — a population that is historically underdiagnosed. Our goal was to develop interpretable and performant models while surfacing gender- and age-related disparities in mental health diagnostics.
+This repository contains our submission for the **WiDS 2025 Datathon**, focused on using biomedical, cognitive, and demographic data to improve **diagnosis of ADHD in women** — a population that is historically underdiagnosed. Our goal was to develop interpretable and performant models while surfacing gender- and age-related disparities in mental health diagnostics.
 
 ## Motivation
 
